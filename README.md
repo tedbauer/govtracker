@@ -1,5 +1,6 @@
 # govtracker
 
 ```
-go run main.go
+make website
+open build/index.html
 ```
